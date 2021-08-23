@@ -97,4 +97,4 @@ _TODO: Answer the following questions to fill in the blanks:_
 - http://20.64.152.6:5601/app/kibana#/home
 
 Bonus: ansible-playbook file-beat.yml
-![Images](/Ansible/Images/Filebeat.png)
+![Images](/Images/Filebeat.png)
