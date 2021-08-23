@@ -96,5 +96,7 @@ _TODO: Answer the following questions to fill in the blanks:_
 - Update the hosts file to include webservers. Put the IPs for the webservers whihc are 10.0.0.6 and 10.0.0.7.
 - http://20.64.152.6:5601/app/kibana#/home
 
-Bonus: ansible-playbook file-beat.yml
+Bonus:
+
+Example of installing Filebeat inside the "Elk-VM": ansible-playbook filebeat-playbook.yml
 ![Images](/Ansible/Images/Filebeat.png)
