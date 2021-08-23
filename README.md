@@ -6,8 +6,8 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the config file may be used to install only certain pieces of it, such as Filebeat.
 
-  - ![Filebeat](/Ansible/roles/filebeat-playbook.yml)
-    ![Metricbeat](/Ansible/roles/metricbeat-playbook.yml)
+  - [Filebeat](/Ansible/roles/filebeat-playbook.yml)
+  - [Metricbeat](/Ansible/roles/metricbeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topology
@@ -97,4 +97,4 @@ _TODO: Answer the following questions to fill in the blanks:_
 - http://20.64.152.6:5601/app/kibana#/home
 
 Bonus: ansible-playbook file-beat.yml
-![roles](Ansible\roles\filebeat-playbook.yml)
+![Images](/Ansible/Images/Filebeat.png)
